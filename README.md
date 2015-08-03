@@ -157,3 +157,10 @@ CITATION
 
 Chienchi Lo, PatrickS.G. Chain (2014) Rapid evaluation and Quality Control of Next Generation Sequencing Data with FaQCs. [BMC Bioinformatics. 2014 Nov 19;15 ](http://www.ncbi.nlm.nih.gov/pubmed/25408143)
 
+-------------
+COPYRIGHT 
+-------------
+
+Los Alamos National Security, LLC (LANS) owns the copyright to FaQCs, which it identifies internally as LA-CC-14-001.  The license is GPLv3.  See [LICENSE](https://github.com/losalamos/FaQCs/blob/master/LICENSE) for the full text.
+
+
